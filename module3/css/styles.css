@@ -1,0 +1,141 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* FOOD, LLC */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  line-height: .75;
+  text-align: left;
+}
+
+
+
+
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+h2 {
+  font-size:175%;
+  margin: 50px auto 50px auto;
+  
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  padding:10px;
+}
+
+
+
+.p1 {
+  font-size: 150%;
+  padding:10px;
+  text-align: center;
+  margin:0px auto 0px auto;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: bold; 
+}
+
+  
+  
+}
+ .para{
+ font-family:  Arial, Helvetica, sans-serif;
+clear:right;
+padding: 15px;
+
+
+}
+
+.box{
+  background-color: #808080;
+  border: 1px solid black;
+  margin:15px 0px 15px 0px;
+  
+}
+
+
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* FOOD, LLC */
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  text-align: left;
+}
+
+#nav-list {
+  margin-top: 10px;
+  text-align: center;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+  
+
+
+
+</style>
